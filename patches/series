@@ -369,3 +369,4 @@ helium/ui/progress-bar.patch
 helium/ui/exclusive-access-bubble.patch
 helium/ui/hide-page-actions-flag.patch
 helium/ui/native-frame-materials-windows.patch
+helium/ui/transparent-web-contents.patch
